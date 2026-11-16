@@ -11,8 +11,10 @@ body {
     background-color:with;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
-    text-align: ceneter; 
+    text-align: center; 
 .kartu-profil img {
    width: 150px;
+   display: block;
+   margin: 0 auto;
    border-radius: 50%;
 }
