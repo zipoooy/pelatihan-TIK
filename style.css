@@ -3,7 +3,6 @@ body {
   font-family:futura,sans-serif; /* apa makanan makanan kesukaan kamu */
   color: #191970; /*warna teks utama (Biru gelap)*/
 }
-
 .kartu-profil {
     width: 300px;
     margin: 560px auto;/*50pxjarak atas/bawah,auto menengah kiri/kanan*/
