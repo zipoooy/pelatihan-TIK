@@ -15,5 +15,5 @@ body {
 }
 .kartu-profil img {
    width: 150px;
-   border-radius: 50%;/*Trik untuk membuat gambar menjadi lingkaran sempurna*/
+   border-radius: 50%;/*Jadikan foto menjadi lingkaran sempurna*/
 }
