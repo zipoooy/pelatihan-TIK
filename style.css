@@ -1,20 +1,19 @@
 body {
   background-color: #62380f; /*warna coklat tua*/
-  font-family: Arial sans-serif; /* apa makanan makanan kesukaan kamu */
+  font-family:futura,sans-serif; /* apa makanan makanan kesukaan kamu */
   color: #191970; /*warna teks utama (Biru gelap)*/
 }
 
 .kartu-profil {
-    width: 150px;
-    margin: 50px auto;
+    width: 300px;
+    margin: 560px auto;/*50pxjarak atas/bawah,auto menengah kiri/kanan*/
     padding: 20px;
-    background-color:with;
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
-    text-align: center; 
+    background-color:rgb(233,14,167);
+    border-radius: 20px;/*membuat sudut menjadi melengkung*/
+    box-shadow: 0 4px 8px rgba(255,149,184,0.1);Efek bayangan*/
+    text-align: center;/*menengahkan semua texs di dalam kartu*/
+}
 .kartu-profil img {
    width: 150px;
-   display: block;
-   margin: 0 auto;
-   border-radius: 50%;
+   border-radius: 50%;/*Trik untuk membuat gambar menjadi lingkaran sempurna*/
 }
